@@ -1,5 +1,5 @@
 - [ ] step one build server
-- [ ] step two install os on server
+- [x] step two install os on server
 - [ ] step three update server
 - [ ] step four install required software
 - [ ] step five add server to the domain
